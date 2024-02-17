@@ -21,3 +21,6 @@ Dashboard E-Commerce ini dibangun menggunakan Streamlit untuk memberikan wawasan
 
 ### Note Dataset
 - **Kategori_info.csv** : Dataset ini hasil Merge dari order_items_dataset.csv, products_dataset.csv, & product_category_name_translation.csv yang telah melaui proses cleaning dan EDA
+- **orders_sellers_dataset.csv** : Gabungan Dari order items, order review, & seller yang telah melalui proses cleaning
+- **Customer.csv** : Hasil EDA Dari customer
+- **all_data.csv** : gabungan semua dataset
