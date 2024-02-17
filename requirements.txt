@@ -9,3 +9,4 @@ scikit-learn
 Pillow
 folium
 babel
+streamlit_option_menu
