@@ -1,0 +1,11 @@
+# requirements.txt
+
+streamlit
+pandas
+matplotlib
+plotly
+seaborn
+scikit-learn
+Pillow
+folium
+babel
